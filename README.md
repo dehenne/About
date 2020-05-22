@@ -22,7 +22,7 @@ QUIQQER
 The goal of QUIQQER is to get a SaaS or e-commerce shop up and running in minutes and go for it.
 Whether it is an invoicing system, an ordering system, a merchandise management system, a membership system, an e-commerce shop or a simple website, with QUIQQER this is now possible.
 
-Since I am a strong supporter of the open source idea, the basic system of QUIQQER is free and open source.
+Since I am a strong believer of the open source idea, the basic system of QUIQQER is free and open source.
 
 Companies / Co Founder
 ------
@@ -32,7 +32,7 @@ Companies / Co Founder
 - still secret
 - still secret
 
-Own Products / Co Founder
+Products / Co Founder
 ------
 
 - [QUIQQER](https://www.quiqqer.com)
@@ -43,6 +43,7 @@ Own Products / Co Founder
 - [Startup Promotion List](https://startup-promotion-list.quiqqer.com)
 - [NerdSpot](https://www.nerdspot.events)
 - [my.eListing](https://www.my-elisting.com)
+- [Steemit Holmes](https://www.steemit-holmes.com/)
 
 Projects I support and I am involved in
 ------
