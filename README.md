@@ -21,15 +21,15 @@ QUIQQER
 Companies / Co Founder
 ------
 
-- PCSG OHG
-- NameRobot GmbH
+- [PCSG OHG](https://pcsg.de)
+- [NameRobot GmbH](https://www.namerobot.com)
 - still secret
 - still secret
 
 Own Products / Co Founder
 ------
 
-- [QUIQQER](https://www.quiqqer.com/)
+- [QUIQQER](https://www.quiqqer.com)
 - [NameRobot Toolbox](https://www.namerobot.de/toolbox)
 - [Namefruits](https://www.namefruits.com)
 - [NameScore](https://www.namescore.io)
