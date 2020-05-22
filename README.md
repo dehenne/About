@@ -14,6 +14,14 @@ You can usually find me at:
 - 💻 [Indie Hackers](https://www.indiehackers.com/dehenne)
 - 🚀 [Product Hunt](https://www.producthunt.com/@de_henne)
 
+Support
+------
+
+If you want to support me please do so via the PCSG funding. By doing so you support not only me but also my projects and colleagues.
+
+- https://github.com/sponsors/pcsg
+- https://www.buymeacoffee.com/QUIQQER
+
 QUIQQER
 ------
 
