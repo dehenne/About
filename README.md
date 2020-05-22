@@ -7,6 +7,8 @@ I like to build products, startups, services or e-commerce shops. Therefore I am
 Social
 ------
 
+You can usually find me at:
+
 - 🐦 [Twitter](https://twitter.com/de_henne)
 - 👷 [Makerlog](https://getmakerlog.com/@dehenne)
 - 💻 [Indie Hackers](https://www.indiehackers.com/dehenne)
@@ -15,8 +17,12 @@ Social
 QUIQQER
 ------
 
-... coming soon
+[QUIQQER](https://www.quiqqer.com) is the all around carefree Enterprise Content Management System. I have been developing QUIQQER with my colleague for over 10 years. 
 
+The goal of QUIQQER is to get a SaaS or e-commerce shop up and running in minutes and go for it.
+Whether it is an invoicing system, an ordering system, a merchandise management system, a membership system, an e-commerce shop or a simple website, with QUIQQER this is now possible.
+
+Since I am a strong supporter of the open source idea, the basic system of QUIQQER is free and open source.
 
 Companies / Co Founder
 ------
