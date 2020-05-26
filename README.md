@@ -4,7 +4,7 @@ About me
 My name is Henning. Most people just call me `Hen` or `de henne`. You can do that too :wink:
 I like to build products, startups, services or e-commerce shops. Therefore I am also co-founder of some companies and services.
 
-Social
+💬 Social
 ------
 
 You can usually find me at:
@@ -14,15 +14,7 @@ You can usually find me at:
 - 💻 [Indie Hackers](https://www.indiehackers.com/dehenne)
 - 🚀 [Product Hunt](https://www.producthunt.com/@de_henne)
 
-Support
-------
-
-If you want to support me please do so via the PCSG funding. By doing so you support not only me but also my projects and colleagues.
-
-- https://github.com/sponsors/pcsg
-- https://www.buymeacoffee.com/QUIQQER
-
-QUIQQER
+❤️ QUIQQER
 ------
 
 [QUIQQER](https://www.quiqqer.com) is the all around carefree Enterprise Content Management System. I have been developing QUIQQER with my colleague for over 10 years. 
@@ -32,7 +24,20 @@ Whether it is an invoicing system, an ordering system, a merchandise management 
 
 Since I am a strong believer of the open source idea, the basic system of QUIQQER is free and open source.
 
-Companies / Co Founder
+👨‍🎓 Knowledge
+------
+
+- 20 years programming experience
+- JavaScript, NodeJs, ES6
+- PHP
+- MySQL, Maria DB, PostgreSQL
+- HTML, CSS
+- Bash, Shell Scripting
+- Unix / Linux
+- Blockchain Knowledge
+
+
+👨‍💼 Companies / Co Founder
 ------
 
 - [PCSG OHG](https://pcsg.de)
@@ -40,7 +45,7 @@ Companies / Co Founder
 - still secret
 - still secret
 
-Products / Co Founder
+👷 Products / Co Founder
 ------
 
 - [QUIQQER](https://www.quiqqer.com)
@@ -53,7 +58,7 @@ Products / Co Founder
 - [my.eListing](https://www.my-elisting.com)
 - [Steemit Holmes](https://www.steemit-holmes.com/)
 
-Projects I support and I am involved in
+🧑‍🏭 Projects I support and I am involved in
 ------
 
 - [neXGam](https://www.nexgam.de)
@@ -62,8 +67,18 @@ Projects I support and I am involved in
 
 If you want to know what else my development company does: https://www.pcsg.de/Referenzen
 
-Apps
+📱 Apps & Plugins
 ------
 
 - [Lets Go Evolution](https://play.google.com/store/apps/details?id=de.pcsg.letsgoevolution&hl=de)
 - [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
+- [Steemoji - Easy Emojis for Steemit](https://chrome.google.com/webstore/detail/oglhmgjoechnljijaoedcgjgjmeladgf)
+- [DTube Share](https://chrome.google.com/webstore/detail/mmbblkbmnnacplngkbmfkogbdonjjade)
+
+🙏 Support
+------
+
+If you want to support me please do so via the PCSG funding. By doing so you support not only me but also my projects and colleagues.
+
+- https://github.com/sponsors/pcsg
+- https://www.buymeacoffee.com/QUIQQER
