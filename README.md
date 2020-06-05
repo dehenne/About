@@ -70,6 +70,7 @@ If you want to know what else my development company does: https://www.pcsg.de/R
 📱 Apps & Plugins
 ------
 
+- [Marble.Cards Extension](https://github.com/pcsg/marble-cards-browser-extension)
 - [Lets Go Evolution](https://play.google.com/store/apps/details?id=de.pcsg.letsgoevolution&hl=de)
 - [Startup Promotion List](https://play.google.com/store/apps/details?id=de.pcsg.startuppromotionlist&hl=de)
 - [Steemoji - Easy Emojis for Steemit](https://chrome.google.com/webstore/detail/oglhmgjoechnljijaoedcgjgjmeladgf)
