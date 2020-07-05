@@ -57,6 +57,7 @@ Since I am a strong believer of the open source idea, the basic system of QUIQQE
 - [NerdSpot](https://www.nerdspot.events)
 - [my.eListing](https://www.my-elisting.com)
 - [Steemit Holmes](https://www.steemit-holmes.com/)
+- [Marble Card Info](https://www.marble-cards.info/)
 
 🧑‍🏭 Projects I support and I am involved in
 ------
